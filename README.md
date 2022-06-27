@@ -4,3 +4,6 @@
 1. 先执行 backup.sh /dev/sda1 /dev/sda2 
 2. 执行 sudo -s ./pishrink.sh ~/backupimg/rpi-20220627-1109.img ~/Downloads/nfs
 3. xz -z rpi-20220627-1109.img
+
+
+**This software is not for commercial use, only for personal use and learning and sharing, please do not commercialize it.**
